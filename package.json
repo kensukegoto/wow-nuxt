@@ -1,0 +1,17 @@
+{
+  "name": "wow-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "animate.css": "3.7.2",
+    "nuxt": "^2.14.0",
+    "wow.js": "^1.2.2"
+  },
+  "devDependencies": {}
+}
