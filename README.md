@@ -1,3 +1,6 @@
+- https://github.com/matthieua/WOW
+- https://animate.style/
+- animate.cssは3系を使う
 - デフォルト画面でルート要素にwowを設定するとエラー
 - デフォルト画面のCSSを削除すると上手く動く（なぜ？）
 - Vueのアニメーションがかかっている要素にwowを設定するとエラー
